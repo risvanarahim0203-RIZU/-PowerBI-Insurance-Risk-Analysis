@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/risvanarahim0203-RIZU/PowerBI-Insurance-Risk-Analysis">
-    <img src="https://raw.githubusercontent.com/risvanarahim0203-RIZU/PowerBI-Insurance-Risk-Analysis/main/Project%20Image.png" alt="Power BI Insurance Risk Analysis" width="700">
+    <img src="https://raw.githubusercontent.com/risvanarahim0203-RIZU/PowerBI-Insurance-Risk-Analysis/main/Project%20Image.png" alt="Power BI Insurance Risk Analysis" width="1000" height="350">
   </a>
 </p>
+
 # Automobile Insurance Risk & Claims Analysis 🚗📊
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
